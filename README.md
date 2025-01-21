@@ -1,6 +1,4 @@
-## About me 👋
-
-Interests:   
+## About me 🥳
 
 - 🔭 I’ve recieved Bachelor’s Degree in Psychology in BNU🥰
 - 🌱 I’m proficient in Matlab & Python
