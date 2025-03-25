@@ -1,7 +1,7 @@
 ## About me 🥳
 
 - 🔭 I’ve recieved Bachelor’s Degree in Psychology in BNU🥰
-- 🌱 I’m proficient in Matlab & Python & R
+- 🌱 I’m proficient in Python & Matlab & R
 - 📫 How to reach me: ztxxkaty@qq.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Intersection of Psychology and Artificial Intelligence (AI)😆
