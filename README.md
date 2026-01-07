@@ -3,7 +3,7 @@
 - 🔭 I’ve recieved Bachelor’s Degree in Psychology in BNU
 - 🥰 Now in UChicago pursuing master in Computational Social Science
 - 🌱 I’m proficient in Python & Matlab & R
-- 📫 How to reach me: ztxxkaty@qq.com
+- 📫 How to reach me: katyzhang@uchicago.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Intersection of Psychology and Artificial Intelligence (AI)😆
 
